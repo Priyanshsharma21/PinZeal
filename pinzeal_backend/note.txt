@@ -1,0 +1,6 @@
+npm install -g @sanity/cli && sanity init --project-plan boosted-free-2021-12-08 
+this will initlize the sanity for backend dev
+We have to add the schemas to add content in out CMS
+
+1. Give name to document
+2. initlize the fields
